@@ -12,8 +12,7 @@
 |버스|UAA – City Props – Vehicles||
 |상자|PBR Cardboard Box||
 |트럭|Single Detailed Truck VIS Games||
-|아스팔트 텍스쳐|UAA – City Props – Vehicles||
-|버스|Asphalt materials VK GameDev||
+|아스팔트 텍스쳐|Asphalt materials VK GameDev||
 
 ## 2. 이미지
 |오브젝트|소스|비고|
