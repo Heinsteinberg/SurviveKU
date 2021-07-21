@@ -47,7 +47,7 @@
   * 방향키를 이용해 섭취할 음식을 고르며 ```Enter```를 눌러 먹습니다.
 
 ## 마치며
-버그 및 오탈자 제보나 문의, 의견 등은 [heinsteinberg@korea.ac.kr](heinsteinberg@korea.ac.kr)로 보내주시면 감사하겠습니다.
+버그 및 오탈자 제보나 문의, 의견 등은 [heinsteinberg@korea.ac.kr](mailto:heinsteinberg@korea.ac.kr)로 보내주시면 감사하겠습니다.
 
 ## 참고 자료
 [source.md](source.md) 문서로 분리했습니다.
